@@ -5,8 +5,8 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.") <!-- This build helped to drill the basics of HTML and CSS, and how the fundamentals of each language feed into the performance of its counterpart. -->
+- What problem does it solve? <!-- The refactor aimed to reorganize the existing structure of the code, eliminate extraneous or unnessecary elements, and improve interaction with semantic HTML for improved SEO and accessability.-->
 - What did you learn?
 
 ## Table of Contents (Optional)
